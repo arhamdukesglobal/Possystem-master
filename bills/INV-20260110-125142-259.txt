@@ -1,0 +1,32 @@
+
+============================================================
+                       XYZ INVENTORY                        
+            Phone: +923*******63 , Lahore-54000             
+============================================================
+Customer Name  : Walk-in Customer
+Contact No.    : +920305406757
+Invoice No.    : INV-20260110-125142-259
+Date           : 10/01/2026
+Time           : 12:51:42 PM
+============================================================
+PRODUCT NAME                       QTY       PRICE       TOTAL
+============================================================
+Dairymilk                            5Rs.   100.00Rs.    500.00
+
+------------------------------------------------------------
+SUBTOTAL:                                         Rs.  500.00
+TAX (17%):                                        Rs.   85.00
+============================================================
+TOTAL AMOUNT:                                     Rs.  585.00
+============================================================
+
+                    TERMS & CONDITIONS:                     
+• Amount is non-refundable
+• Only replacement available with original bill
+• Replacement within 7 days of purchase
+• Goods once sold will not be taken back
+
+                Thank you for your business!                
+                    Please visit again!                     
+============================================================
+

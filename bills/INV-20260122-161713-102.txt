@@ -1,0 +1,32 @@
+
+============================================================
+                    Dukes Tech Services                     
+            Phone: +923*******63 , Lahore-54000             
+============================================================
+Customer Name  : sss
+Contact No.    : +921111111111
+Invoice No.    : INV-20260122-161713-102
+Date           : 22/01/2026
+Time           : 04:17:13 PM
+============================================================
+PRODUCT NAME                       QTY       PRICE       TOTAL
+============================================================
+Dairymilk                            1Rs.   100.00Rs.    100.00
+
+------------------------------------------------------------
+SUBTOTAL:                                         Rs.  100.00
+TAX (8%):                                         Rs.    8.00
+============================================================
+TOTAL AMOUNT:                                     Rs.  108.00
+============================================================
+
+                    TERMS & CONDITIONS:                     
+• Amount is non-refundable
+• Only replacement available with original bill
+• Replacement within 7 days of purchase
+• Goods once sold will not be taken back
+
+                Thank you for your business!                
+                    Please visit again!                     
+============================================================
+

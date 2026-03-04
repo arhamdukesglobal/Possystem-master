@@ -1,0 +1,32 @@
+
+============================================================
+                       XYZ INVENTORY                        
+            Phone: +923*******63 , Lahore-54000             
+============================================================
+Customer Name  : Walk-in Customer
+Contact No.    : +923054067573
+Invoice No.    : INV-20260109-181017-360
+Date           : 09/01/2026
+Time           : 06:10:17 PM
+============================================================
+PRODUCT NAME                       QTY       PRICE       TOTAL
+============================================================
+dollar                               5Rs. 25000.00Rs. 125000.00
+
+------------------------------------------------------------
+SUBTOTAL:                                         Rs.125000.00
+TAX (17%):                                        Rs.21250.00
+============================================================
+TOTAL AMOUNT:                                     Rs.146250.00
+============================================================
+
+                    TERMS & CONDITIONS:                     
+• Amount is non-refundable
+• Only replacement available with original bill
+• Replacement within 7 days of purchase
+• Goods once sold will not be taken back
+
+                Thank you for your business!                
+                    Please visit again!                     
+============================================================
+
